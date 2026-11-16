@@ -1,0 +1,10 @@
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 3\тема 3\тема 3\bin\Debug\тема 3.exe.config
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 3\тема 3\тема 3\bin\Debug\тема 3.exe
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 3\тема 3\тема 3\bin\Debug\тема 3.pdb
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 3\тема 3\тема 3\bin\Debug\MyLab.dll
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 3\тема 3\тема 3\bin\Debug\MyLab.pdb
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 3\тема 3\тема 3\obj\Debug\тема 3.csproj.AssemblyReference.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 3\тема 3\тема 3\obj\Debug\тема 3.csproj.CoreCompileInputs.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 3\тема 3\тема 3\obj\Debug\тема 3.csproj.Up2Date
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 3\тема 3\тема 3\obj\Debug\тема 3.exe
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 3\тема 3\тема 3\obj\Debug\тема 3.pdb
