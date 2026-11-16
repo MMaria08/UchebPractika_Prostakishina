@@ -1,0 +1,7 @@
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 2\ConsoleApp1\создание методов\bin\Debug\создание методов.exe.config
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 2\ConsoleApp1\создание методов\bin\Debug\создание методов.exe
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 2\ConsoleApp1\создание методов\bin\Debug\создание методов.pdb
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 2\ConsoleApp1\создание методов\obj\Debug\создание методов.csproj.AssemblyReference.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 2\ConsoleApp1\создание методов\obj\Debug\создание методов.csproj.CoreCompileInputs.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 2\ConsoleApp1\создание методов\obj\Debug\создание методов.exe
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\тема 2\ConsoleApp1\создание методов\obj\Debug\создание методов.pdb
