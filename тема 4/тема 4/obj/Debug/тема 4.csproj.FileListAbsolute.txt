@@ -1,0 +1,8 @@
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 4\тема 4\bin\Debug\тема 4.exe.config
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 4\тема 4\bin\Debug\тема 4.exe
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 4\тема 4\bin\Debug\тема 4.pdb
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 4\тема 4\obj\Debug\тема 4.csproj.AssemblyReference.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 4\тема 4\obj\Debug\тема 4.csproj.CoreCompileInputs.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 4\тема 4\obj\Debug\тема 4.exe
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 4\тема 4\obj\Debug\тема 4.pdb
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 4\тема 4\obj\Debug\тема 4.exe.config
