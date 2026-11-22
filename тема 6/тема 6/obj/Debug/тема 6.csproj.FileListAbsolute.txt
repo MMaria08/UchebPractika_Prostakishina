@@ -1,0 +1,8 @@
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 6\тема 6\bin\Debug\тема 6.exe.config
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 6\тема 6\bin\Debug\тема 6.exe
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 6\тема 6\bin\Debug\тема 6.pdb
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 6\тема 6\obj\Debug\тема 6.csproj.AssemblyReference.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 6\тема 6\obj\Debug\тема 6.csproj.CoreCompileInputs.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 6\тема 6\obj\Debug\тема 6.exe
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 6\тема 6\obj\Debug\тема 6.pdb
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 6\тема 6\obj\Debug\тема 6.exe.config
