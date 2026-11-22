@@ -1,0 +1,8 @@
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 7\работа со 123\bin\Debug\работа со 123.exe.config
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 7\работа со 123\bin\Debug\работа со 123.exe
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 7\работа со 123\bin\Debug\работа со 123.pdb
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 7\работа со 123\obj\Debug\работа со 123.csproj.AssemblyReference.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 7\работа со 123\obj\Debug\работа со 123.csproj.CoreCompileInputs.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 7\работа со 123\obj\Debug\работа со 123.exe
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 7\работа со 123\obj\Debug\работа со 123.pdb
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\тема 7\работа со 123\obj\Debug\работа со 123.exe.config
